@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 My Name is Rifqi Muzakki
+
+- 🔭 I’m currently working on Mangcoding
+- 🌱 I’m currently learning flutter
+- 👯 I’m looking to collaborate on flutter and react native app projects
+- 📫 How to reach me: rifqimuzakki45@gmail.com
+- 😄 Pronouns: he/ him
 
 <!--
 **Rifqi22424/rifqi22424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
